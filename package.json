@@ -1,6 +1,6 @@
 {
     "name": "@coderlzw/r-hooks",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A collection of useful React hooks",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
